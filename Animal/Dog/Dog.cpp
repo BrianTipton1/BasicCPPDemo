@@ -3,9 +3,6 @@
 //
 
 #include "Dog.h"
-#include "../../Helpers/Util/Util.h"
-
-#include <utility>
 
 Dog::Dog() : Animal("woof", 5, 10) {}
 

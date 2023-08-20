@@ -7,6 +7,8 @@
 
 
 #include "../Animal.h"
+#include <chrono>
+#include "random"
 
 class Horse: public Animal {
 public:

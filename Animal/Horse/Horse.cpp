@@ -2,9 +2,7 @@
 // Created by brian on 8/20/23.
 //
 
-#include <chrono>
 #include "Horse.h"
-#include "random"
 
 Horse::Horse() : Animal("neigh", 50, 100) {}
 
